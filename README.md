@@ -1,4 +1,4 @@
-- 👋 Hi, My names Tim
+- 👋 Hi, My name's Tim
 - 👀 I’m interested in computer science and specifically in software engineering 
 - 🌱 I’m currently learning Swift and Python
 
